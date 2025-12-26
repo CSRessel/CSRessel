@@ -5,7 +5,7 @@ My name's Clifford. I spend a lot of time thinking about software.
 ![CSRessel stars](https://img.shields.io/github/stars/CSRessel)
 ![CSRessel views](https://komarev.com/ghpvc/?username=CSRessel&color=lightgrey)
 
-## Areas of Work
+## Areas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a>
@@ -16,7 +16,7 @@ My name's Clifford. I spend a lot of time thinking about software.
   <br/>
 </p>
 
-## Places of Work
+## Places
 
 <p align="center">
   <img align="left" src="https://img.logo.dev/fgrovep.com?token=pk_TOx-pqtaRpCBQUroKLqGmA" alt="Freestone Grove log" width="40" height="40" />
