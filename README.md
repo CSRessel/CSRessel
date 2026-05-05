@@ -8,21 +8,15 @@ My name's Clifford. I spend a lot of time thinking about software.
 ## Areas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a>
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
-  <img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="40" height="40"/> </a>
-  <br/>
+  <img src="https://skillicons.dev/icons?i=rust,py,ts,linux,neovim" alt="rust, python, typescript, linux, neovim" height="40" />
 </p>
 
 ## Places
 
 <p align="left">
-  <img align="left" src="https://img.logo.dev/fgrovep.com?token=pk_TOx-pqtaRpCBQUroKLqGmA" alt="Freestone Grove log" width="40" height="40" />
-  <img align="left" src="https://img.logo.dev/roche.com?token=pk_TOx-pqtaRpCBQUroKLqGmA" alt="Roche logo" width="40" height="40" />
-  <br/>
-  <br/>
+  Currently working on Nori. Formerly: Freestone Grove, and Roche. <br />
+  
+  <img src="assets/logos/nori.jpg" alt="Nori" width="40" height="40" /> <img src="assets/logos/freestone-grove.jpg" alt="Freestone Grove" width="40" height="40" /><img src="assets/logos/roche.jpg" alt="Roche" width="40" height="40" />
 </p>
 
 ## More
