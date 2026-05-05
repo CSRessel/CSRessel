@@ -14,10 +14,10 @@ My name's Clifford. I spend a lot of time thinking about software.
 ## Places
 
 <p align="left">
-  Currently working on Nori. Formerly: Freestone Grove, and Roche. <br />
+  Currently working on Nori 🍙 <br />
+  Formerly Freestone Grove and Roche. <br />
   
-  <img src="assets/logos/nori.jpg" alt="Nori" width="40" height="40" /> <img src="assets/logos/freestone-grove.jpg" alt="Freestone Grove" width="40" height="40" /><img src="assets/logos/roche.jpg" alt="Roche" width="40" height="40" />
-</p>
+  <a href="https://noriagentic.com"><img src="logo_nori.jpg" alt="Nori" width="40" height="40" /></a> <a href="https://fgrovep.com"><img src="logo_fgp.jpg" alt="Freestone Grove" width="40" height="40" /></a> <a href="https://roche.com"><img src="logo_roche.jpg" alt="Roche" width="40" height="40" /></a></p>
 
 ## More
 
